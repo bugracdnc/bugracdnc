@@ -1,5 +1,5 @@
 # 💫 About Me:
-Learning to code again - Backend<br><br>Im learning Spring Framework, Golang
+Learning to code again<br><br>I'm learning Spring Framework, Golang
 
 
 ## 🌐 Socials:
