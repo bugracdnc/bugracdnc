@@ -1,5 +1,5 @@
 # 💫 About Me:
-Learning to code again<br><br>I'm learning Spring Framework, Golang
+Learning to code anew<br><br>I'm learning: Spring Framework, Golang<br><br>I'm planning to learn: Typescript, React Native / Flutter 
 
 
 ## 🌐 Socials:
